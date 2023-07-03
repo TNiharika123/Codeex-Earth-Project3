@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Login/Signup 
+![Screenshot 2023-07-03 222715](https://github.com/TNiharika123/Codeex-Earth-Project3/assets/122886989/62c2df0e-ee81-4741-9e79-e3506d9debd1)
+
+## HomePage
+![Screenshot 2023-07-03 222734](https://github.com/TNiharika123/Codeex-Earth-Project3/assets/122886989/1562c83d-0165-4eac-8d06-0274d2bb0b52)
 
 ## Available Scripts
 
